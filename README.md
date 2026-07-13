@@ -106,27 +106,27 @@ I've been using Linux for more than **six years**, and most of what I learn come
 <table>
 <tr>
 <td><b>🐧 Linux</b></td>
-<td>🟨🟨🟨🟨🟨🟨🟨🟨🟨⬛</td>
+<td><img src="https://geps.dev/progress/92?barColor=F59E0B&label=%20" alt="Linux progress" /></td>
 <td><b>Advanced</b></td>
 </tr>
 <tr>
 <td><b>🏠 Self-hosting</b></td>
-<td>🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛</td>
+<td><img src="https://geps.dev/progress/86?barColor=22C55E&label=%20" alt="Self-hosting progress" /></td>
 <td><b>Strong</b></td>
 </tr>
 <tr>
 <td><b>🤖 Local AI</b></td>
-<td>🟪🟪🟪🟪🟪🟪🟪🟪⬛⬛</td>
+<td><img src="https://geps.dev/progress/84?barColor=A855F7&label=%20" alt="Local AI progress" /></td>
 <td><b>Strong</b></td>
 </tr>
 <tr>
 <td><b>🌐 Web Development</b></td>
-<td>🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛</td>
+<td><img src="https://geps.dev/progress/78?barColor=3B82F6&label=%20" alt="Web development progress" /></td>
 <td><b>Growing</b></td>
 </tr>
 <tr>
 <td><b>⚙️ Backend</b></td>
-<td>🟧🟧🟧🟧🟧🟧⬛⬛⬛⬛</td>
+<td><img src="https://geps.dev/progress/64?barColor=F97316&label=%20" alt="Backend progress" /></td>
 <td><b>Learning</b></td>
 </tr>
 </table>
