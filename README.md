@@ -1,69 +1,149 @@
-<p align="center">
-  <a href="https://github.com/IlyasMohaimel">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Frost" alt="Hello! I&#39;m Frost" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Computer%20Science%20student%2C%20Linux%20enthusiast%2C%20and%20self-hosting%20explorer;Building%20practical%20tools%2C%20experimenting%20with%20AI%2C%20and%20learning%20by%20creating" alt="Typing headlines" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:7C3AED,35:2563EB,70:06B6D4,100:22C55E&text=Hey%20there,%20I'm%20Frost!&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20Linux%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Hey there, I'm Frost!" />
 
-### 🚀 About Me
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&height=50&lines=I+build+things%2C+break+things%2C+and+learn+from+both+%F0%9F%9A%80;Linux%2C+self-hosting%2C+AI%2C+and+web+development+%F0%9F%90%A7;Turning+random+ideas+into+real+projects+%E2%9C%A8" alt="Typing introduction" />
+</a>
 
-Computer Science student with over six years of Linux experience. I enjoy building practical web tools, working with self-hosted systems, experimenting with local AI, and learning new technologies through real projects.
+<br />
 
-🔭 &nbsp;I'm currently working on **Personal web projects, self-hosted services, and educational tools**  
-🌱 &nbsp;I'm currently learning **Go, Python, backend development, and AI infrastructure**  
-👯 &nbsp;I'm looking to collaborate on **Open-source tools, Linux projects, self-hosting, and useful web applications**  
-🤔 &nbsp;I'm looking for help with **Scalable backend architecture and distributed AI systems**  
-💬 &nbsp;Ask me about **Linux, self-hosting, Windows, Android, and local AI**  
-⚡ &nbsp;Fun fact: **I have probably reinstalled Linux more times than I can count**
+<a href="https://ilyasmohaimel.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:ilyasmohaimel@tutamail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-0EA5E9?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.instagram.com/mhiml._">
+  <img src="https://img.shields.io/badge/Instagram-%40mhiml._-EC4899?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://x.com/LookFrost289116">
+  <img src="https://img.shields.io/badge/X-%40LookFrost-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
-</p>
-
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://x.com/LookFrost289116" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/mhiml._" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://ilyasmohaimel.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:ilyasmohaimel@tutamail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=IlyasMohaimel&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+</div>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/IlyasMohaimel">IlyasMohaimel</a></i></p>
+
+## 🌈 A little about me
+
+Hey! I'm **Frost**, a Computer Science student who enjoys building useful things, experimenting with new ideas, and spending far too much time tweaking Linux setups.
+
+I've been using Linux for more than **six years**, and most of what I learn comes from actually building, breaking, fixing, and improving real projects.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 What I'm up to
+
+- Building personal web projects
+- Running self-hosted services
+- Exploring local AI and home servers
+- Learning Go, Python, and backend development
+- Experimenting with automation and developer tools
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 You can ask me about
+
+- Linux and self-hosting
+- Web development
+- Windows and Android troubleshooting
+- Local AI and home servers
+- Random technical rabbit holes
+
+</td>
+</tr>
+</table>
+
+> ⚡ Fun fact: I have probably reinstalled Linux more times than I can count.
+
+---
+
+## 🧰 My toolbox
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash,go&theme=dark&perline=7" alt="Languages" />
+
+### ⚙️ Frameworks and runtime
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite&theme=dark&perline=6" alt="Frameworks and runtime" />
+
+### 🗄️ Data, infrastructure, and deployment
+
+<img src="https://skillicons.dev/icons?i=supabase,sqlite,docker,githubactions,netlify,cloudflare,vercel&theme=dark&perline=7" alt="Infrastructure and deployment" />
+
+### 🛠️ Tools and platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,linux,vim&theme=dark&perline=6" alt="Tools and platforms" />
+
+</div>
+
+---
+
+## 📊 GitHub at a glance
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ilyasmohaimel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB&ring_color=22C55E" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ilyasmohaimel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=8" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=ilyasmohaimel&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F97316&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=94A3B8" alt="GitHub streak" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyasmohaimel&bg_color=0D1117&color=A78BFA&line=22D3EE&point=F472B6&area=true&hide_border=true" alt="Contribution graph" />
+
+</div>
+
+---
+
+## 🎯 Current focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Linux-Advanced-F59E0B?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Web%20Development-Growing-3B82F6?style=for-the-badge&logo=react&logoColor=white" alt="Web development" />
+<img src="https://img.shields.io/badge/Self--Hosting-Strong-22C55E?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Self-hosting" />
+<img src="https://img.shields.io/badge/Backend-Learning-8B5CF6?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend development" />
+<img src="https://img.shields.io/badge/Local%20AI-Exploring-EC4899?style=for-the-badge&logo=openai&logoColor=white" alt="Local AI" />
+
+</div>
+
+---
+
+## 🤝 Let's connect
+
+<div align="center">
+
+<a href="https://ilyasmohaimel.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-ilyasmohaimel.github.io-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:ilyasmohaimel@tutamail.com">
+  <img src="https://img.shields.io/badge/Email-ilyasmohaimel%40tutamail.com-0EA5E9?style=flat-square&logo=maildotru&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.instagram.com/mhiml._">
+  <img src="https://img.shields.io/badge/Instagram-mhiml._-EC4899?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://x.com/LookFrost289116">
+  <img src="https://img.shields.io/badge/X-LookFrost-111827?style=flat-square&logo=x&logoColor=white" alt="X" />
+</a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=ilyasmohaimel&label=Profile%20views&color=8B5CF6&style=flat-square" alt="Profile views" />
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22C55E,35:06B6D4,70:2563EB,100:7C3AED" width="100%" alt="" />
+
+<sub>Built with curiosity, Linux, and way too many open tabs.</sub>
+
+</div>
