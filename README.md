@@ -121,12 +121,12 @@ I've been using Linux for more than **six years**, and most of what I learn come
 </tr>
 <tr>
 <td><b>🌐 Web Development</b></td>
-<td><img src="https://geps.dev/progress/78?barColor=3B82F6&label=%20" alt="Web development progress" /></td>
+<td><img src="https://geps.dev/progress/50?barColor=3B82F6&label=%20" alt="Web development progress" /></td>
 <td><b>Growing</b></td>
 </tr>
 <tr>
 <td><b>⚙️ Backend</b></td>
-<td><img src="https://geps.dev/progress/64?barColor=F97316&label=%20" alt="Backend progress" /></td>
+<td><img src="https://geps.dev/progress/20?barColor=F97316&label=%20" alt="Backend progress" /></td>
 <td><b>Learning</b></td>
 </tr>
 </table>
