@@ -105,34 +105,29 @@ I've been using Linux for more than **six years**, and most of what I learn come
 
 <table>
 <tr>
-<td align="left"><b>🐧 Linux</b></td>
-<td>
-  <img src="https://progress-bar.dev/92/?width=420&color=F59E0B&suffix=%25" alt="Linux proficiency: 92%" />
-</td>
+<td><b>🐧 Linux</b></td>
+<td><code>██████████████████░░</code></td>
+<td><b>Advanced</b></td>
 </tr>
 <tr>
-<td align="left"><b>🌐 Web Development</b></td>
-<td>
-  <img src="https://progress-bar.dev/78/?width=420&color=3B82F6&suffix=%25" alt="Web development proficiency: 78%" />
-</td>
+<td><b>🌐 Web Development</b></td>
+<td><code>███████████████░░░░░</code></td>
+<td><b>Growing</b></td>
 </tr>
 <tr>
-<td align="left"><b>🏠 Self-hosting</b></td>
-<td>
-  <img src="https://progress-bar.dev/86/?width=420&color=22C55E&suffix=%25" alt="Self-hosting proficiency: 86%" />
-</td>
+<td><b>🏠 Self-hosting</b></td>
+<td><code>█████████████████░░░</code></td>
+<td><b>Strong</b></td>
 </tr>
 <tr>
-<td align="left"><b>⚙️ Backend</b></td>
-<td>
-  <img src="https://progress-bar.dev/64/?width=420&color=8B5CF6&suffix=%25" alt="Backend proficiency: 64%" />
-</td>
+<td><b>🤖 Local AI</b></td>
+<td><code>████████████████░░░░</code></td>
+<td><b>Strong</b></td>
 </tr>
 <tr>
-<td align="left"><b>🤖 Local AI</b></td>
-<td>
-  <img src="https://progress-bar.dev/58/?width=420&color=EC4899&suffix=%25" alt="Local AI proficiency: 58%" />
-</td>
+<td><b>⚙️ Backend</b></td>
+<td><code>█████████████░░░░░░░</code></td>
+<td><b>Learning</b></td>
 </tr>
 </table>
 
