@@ -106,27 +106,27 @@ I've been using Linux for more than **six years**, and most of what I learn come
 <table>
 <tr>
 <td><b>🐧 Linux</b></td>
-<td><code>██████████████████░░</code></td>
+<td>🟨🟨🟨🟨🟨🟨🟨🟨🟨⬛</td>
 <td><b>Advanced</b></td>
 </tr>
 <tr>
-<td><b>🌐 Web Development</b></td>
-<td><code>███████████████░░░░░</code></td>
-<td><b>Growing</b></td>
-</tr>
-<tr>
 <td><b>🏠 Self-hosting</b></td>
-<td><code>█████████████████░░░</code></td>
+<td>🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛</td>
 <td><b>Strong</b></td>
 </tr>
 <tr>
 <td><b>🤖 Local AI</b></td>
-<td><code>████████████████░░░░</code></td>
+<td>🟪🟪🟪🟪🟪🟪🟪🟪⬛⬛</td>
 <td><b>Strong</b></td>
 </tr>
 <tr>
+<td><b>🌐 Web Development</b></td>
+<td>🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛</td>
+<td><b>Growing</b></td>
+</tr>
+<tr>
 <td><b>⚙️ Backend</b></td>
-<td><code>█████████████░░░░░░░</code></td>
+<td>🟧🟧🟧🟧🟧🟧⬛⬛⬛⬛</td>
 <td><b>Learning</b></td>
 </tr>
 </table>
