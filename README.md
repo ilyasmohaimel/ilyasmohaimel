@@ -126,7 +126,7 @@ I've been using Linux for more than **six years**, and most of what I learn come
 </tr>
 <tr>
 <td><b>⚙️ Backend</b></td>
-<td><img src="https://geps.dev/progress/64?barColor=F97316&label=%5" alt="Backend progress" /></td>
+<td><img src="https://geps.dev/progress/64?barColor=F97316&label=%20" alt="Backend progress" /></td>
 <td><b>Learning</b></td>
 </tr>
 </table>
