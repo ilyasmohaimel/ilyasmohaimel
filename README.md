@@ -93,13 +93,7 @@ I've been using Linux for more than **six years**, and most of what I learn come
 <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ilyasmohaimel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB&ring_color=22C55E" alt="GitHub statistics" />
 <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ilyasmohaimel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=8" alt="Most used languages" />
 
-<br />
 
-<img src="https://streak-stats.demolab.com?user=ilyasmohaimel&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F97316&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=94A3B8" alt="GitHub streak" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyasmohaimel&bg_color=0D1117&color=A78BFA&line=22D3EE&point=F472B6&area=true&hide_border=true" alt="Contribution graph" />
 
 </div>
 
@@ -109,11 +103,38 @@ I've been using Linux for more than **six years**, and most of what I learn come
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Linux-Advanced-F59E0B?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Web%20Development-Growing-3B82F6?style=for-the-badge&logo=react&logoColor=white" alt="Web development" />
-<img src="https://img.shields.io/badge/Self--Hosting-Strong-22C55E?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Self-hosting" />
-<img src="https://img.shields.io/badge/Backend-Learning-8B5CF6?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend development" />
-<img src="https://img.shields.io/badge/Local%20AI-Exploring-EC4899?style=for-the-badge&logo=openai&logoColor=white" alt="Local AI" />
+<table>
+<tr>
+<td align="left"><b>🐧 Linux</b></td>
+<td>
+  <img src="https://progress-bar.dev/92/?width=420&color=F59E0B&suffix=%25" alt="Linux proficiency: 92%" />
+</td>
+</tr>
+<tr>
+<td align="left"><b>🌐 Web Development</b></td>
+<td>
+  <img src="https://progress-bar.dev/78/?width=420&color=3B82F6&suffix=%25" alt="Web development proficiency: 78%" />
+</td>
+</tr>
+<tr>
+<td align="left"><b>🏠 Self-hosting</b></td>
+<td>
+  <img src="https://progress-bar.dev/86/?width=420&color=22C55E&suffix=%25" alt="Self-hosting proficiency: 86%" />
+</td>
+</tr>
+<tr>
+<td align="left"><b>⚙️ Backend</b></td>
+<td>
+  <img src="https://progress-bar.dev/64/?width=420&color=8B5CF6&suffix=%25" alt="Backend proficiency: 64%" />
+</td>
+</tr>
+<tr>
+<td align="left"><b>🤖 Local AI</b></td>
+<td>
+  <img src="https://progress-bar.dev/58/?width=420&color=EC4899&suffix=%25" alt="Local AI proficiency: 58%" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -136,9 +157,6 @@ I've been using Linux for more than **six years**, and most of what I learn come
   <img src="https://img.shields.io/badge/X-LookFrost-111827?style=flat-square&logo=x&logoColor=white" alt="X" />
 </a>
 
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=ilyasmohaimel&label=Profile%20views&color=8B5CF6&style=flat-square" alt="Profile views" />
 
 <br /><br />
 
