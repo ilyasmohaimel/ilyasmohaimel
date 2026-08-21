@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:7C3AED,35:2563EB,70:06B6D4,100:22C55E&text=Hey%20there,%20I'm%20Frost!&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20Linux%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Hey there, I'm Frost!" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:7C3AED,35:2563EB,70:06B6D4,100:22C55E&text=Frost%20here!&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20Linux%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Frost here!" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&height=50&lines=I+build+things%2C+break+things%2C+and+learn+from+both+%F0%9F%9A%80;Linux%2C+self-hosting%2C+AI%2C+and+web+development+%F0%9F%90%A7;Turning+random+ideas+into+real+projects+%E2%9C%A8" alt="Typing introduction" />
